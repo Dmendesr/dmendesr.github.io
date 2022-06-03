@@ -252,6 +252,7 @@
     height: 80vh;
     padding: 0 2rem;
     background: gray;
+    height: calc(var(--vh, 1vh) * 100);
      
     
   }
