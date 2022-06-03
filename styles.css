@@ -242,7 +242,10 @@
  
   
   /* Contact section */
-  
+  #contact-section {
+    padding: 63px 0 0 0;  
+    
+    }
   
   .contact-section {
     display: flex;
@@ -251,8 +254,8 @@
     align-items: center;
     text-align: center;
     width: 100%;
-    height: calc(var(--vh, 1vh) * 90);
-    padding: 20rem 0 0 0;
+    height: calc(var(--vh, 1vh) * 80);
+    
     background: gray;
     
     
