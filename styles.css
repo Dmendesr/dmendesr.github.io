@@ -168,13 +168,14 @@
   
   /* Projects section */
   #projects {
-  padding: 63px 0 0 10px;  
+  padding: 63px 0 0 0;  
   
   }
 
   .projects-section {
     text-align: center;
-    background: var(--main-blue);  
+    background: var(--main-blue); 
+    padding-bottom: 10px; 
     
   }
 
