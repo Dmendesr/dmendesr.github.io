@@ -252,7 +252,7 @@
     text-align: center;
     width: 100%;
     height: calc(var(--vh, 1vh) * 90);
-    padding: 20rem 0 10rem 0;
+    padding: 20rem 0 0 0;
     background: gray;
     
     
